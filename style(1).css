@@ -1,0 +1,50 @@
+body{
+    background-color: lightsalmon;
+}
+b{
+    color: aliceblue;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: large;
+}
+#camera{
+    border: 10px solid blanchedalmond;
+    height: 300px;
+    width:350px;
+    background-color: plum;
+}
+#result{
+    border: 8px solid seagreen;
+    height: 350px;
+    width:400px;
+    background-color: antiquewhite;
+}
+#name_of_member{
+ color:brown;
+ font-weight:bolder;
+ font-size: 25px;
+
+}
+#accuracy_of_result{
+    color:chartreuse;
+    font-weight:bolder;
+    font-size: 25px;
+   }
+   .normal_text{
+    color: aqua;
+    font-size: 20px;
+   }
+   h2{
+    background-color: aliceblue;
+    color: black;
+    font-size: 30px;
+    font-weight: bold;
+    height:50px;
+    width: 100%;
+    text-align: center;
+   }
+   h2:hover{
+font-size: 25px;
+background-color: black;
+color: aliceblue;
+   }
